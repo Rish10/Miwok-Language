@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha7_5c3007810c0f0f41f76da0d4419b81e06e174ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/334b59a0e074b2d2b79557f585a2c2f934878b12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/classes_67b23ecd7b58738b811cc187d98e432eec8ef81a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/5d076b60409227ee08a57de011381c1ceed5ab59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/classes_422868a5904b73598facf4d1b783506c62ea3c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/528021fd7905ce3577311d5f629a98d83413761d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/classes_f7c942d3b0297e83c52c8f75f2d47f584625abb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/4368ebd28d3859de3018aed0318ffa26ad6f35a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/classes_4feb6fdbf224c550ab82651b59ae51ee1f1a1c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/bae759ed4d8ea66af0509cdc633fcc88902a3ab0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/classes_d90eba4009ebd978eca8da23c4d1ec11c955ec95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/9001f674dbd35a53f3853c1db53137fffb449979/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_1151773d20c22afda87bb9418e8f464be9729e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/1d07686ba8ca6419ba3b725bb128f03c344eb250/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/classes_d4fa21c4ea0fd060436ad4f641e2bb31822b162e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/.android/build-cache/9001f674dbd35a53f3853c1db53137fffb449979/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/classes_21857d0d11ae4aaf3c0e9f3f9e19f67ed9808a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rishabh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/rishabh/AndroidStudioProjects/ud839_Miwok-Starter-code/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_8d375d4f38a6b81fc9ef408eb1110e5c70899fd4.jar" />
+    </item>
+
+</items>
